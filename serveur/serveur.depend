@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1714301322 source:c:\users\refka\desktop\tp c++ c\serveur\servertcpwin-1.c
+	<winsock2.h>
+	<ws2tcpip.h>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+
+1714318945 source:c:\users\refka\desktop\tp c++ c\serveur\servertcpwin-3.c
+	<winsock2.h>
+	<ws2tcpip.h>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1714319316 source:c:\users\refka\desktop\tp c++ c\client\clienttcpwin-3.c
+	<winsock2.h>
+	<ws2tcpip.h>
+	<stdio.h>
+	<stdlib.h>
+
